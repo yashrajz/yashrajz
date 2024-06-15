@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Responsive web design**
 
-- 🌱 I’m currently learning **Python and HTML5**
+- 🌱 I’m currently learning **C++ and DSA**
 
 - 📫 How to reach me **yashrajz.me@gmail.com**
 
